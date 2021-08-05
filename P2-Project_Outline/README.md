@@ -20,11 +20,11 @@ This is a personal library management application. Through the use of "Shelves" 
 ### Technologies
 - Java 8
 - Thymeleaf
-MySQL
-Hibernate
-Spring Framework (Gradle)
-Google Books API
-Bootstrap???
+- MySQL
+- Hibernate
+- Spring Framework (Gradle)
+- Google Books API
+- Bootstrap???
 
 ### What I'll Have to Learn
 1) How to integrate Google Books API

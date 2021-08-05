@@ -8,7 +8,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 
-This is a personal library management application. Through the use of "Shelves" it will allow users to keep track of books they have read, ones they are currently reading and books they want to read in the future. At its core, its a true bookclub companion.
+This is a personal library management application. Through the use of "Shelves" it will allow users to keep track of books they have read, ones they are currently reading and those that they want to read in the future. At its core, its a true bookclub companion.
 
 ### Features
 1) User profile generation and authentication

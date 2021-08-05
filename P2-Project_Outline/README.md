@@ -14,7 +14,7 @@ This is a personal library management application. Through the use of "Shelves" 
 1) User profile generation and authentication
 2) Allow users to add, edit, and remove books from library
 3) Filter results based on a number of different search queries e.g. ISBN, author, genre, date-added, status(read, reading, to-read), etc.
-4) Write personal reviews of books and add rating
+4) Write personal reviews of books and add ratings
 5) Highlight memorable quotes
 
 ### Technologies

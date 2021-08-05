@@ -11,15 +11,15 @@ For this assignment, you will submit a high-level outline of your project. This 
 This is a personal library management application. Through the use of "Shelves" it will allow users to keep track of books they have read, ones they are currently reading and books they want to read in the future. At its core, its a true bookclub companion.
 
 ### Features
-User profile generation and authentication
-Allow users to add, edit, and remove books from library
-Filter results based on a number of different search queries e.g. ISBN, author, genre, date-added, status(read, reading, to-read), etc.
-Write personal reviews of books and add rating
-Highlight memorable quotes
+1) User profile generation and authentication
+2) Allow users to add, edit, and remove books from library
+3) Filter results based on a number of different search queries e.g. ISBN, author, genre, date-added, status(read, reading, to-read), etc.
+4) Write personal reviews of books and add rating
+5) Highlight memorable quotes
 
 ### Technologies
-Java 8
-Thymeleaf
+- Java 8
+- Thymeleaf
 MySQL
 Hibernate
 Spring Framework (Gradle)

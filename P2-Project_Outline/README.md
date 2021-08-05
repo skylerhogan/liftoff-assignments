@@ -7,12 +7,29 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+This is a personal library management application. Through the use of "Shelves" it will allow users to keep track of books they have read, ones they are currently reading and books they want to read in the future. At its core, its a true bookclub companion.
+
 ### Features
-Include Features here
+User profile generation and authentication
+Allow users to add, edit, and remove books from library
+Filter results based on a number of different search queries e.g. ISBN, author, genre, date-added, status(read, reading, to-read), etc.
+Write personal reviews of books and add rating
+Highlight memorable quotes
+
 ### Technologies
-Include Technologies here
+Java 8
+Thymeleaf
+MySQL
+Hibernate
+Spring Framework (Gradle)
+Google Books API
+Bootstrap???
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to integrate Google Books API
+How to implement time and date based reminders
+How to push and pull Git changes while adding features
+
 ### Project Tracker
-https://trello.com/b/hzozCSAY/liftoff
+https://trello.com/b/50PS3ZiC/team-book-trello-board

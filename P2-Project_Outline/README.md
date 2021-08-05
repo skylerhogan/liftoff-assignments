@@ -27,9 +27,9 @@ Google Books API
 Bootstrap???
 
 ### What I'll Have to Learn
-How to integrate Google Books API
-How to implement time and date based reminders
-How to push and pull Git changes while adding features
+1) How to integrate Google Books API
+2) How to implement time and date based reminders
+3) How to push and pull Git changes while adding features
 
 ### Project Tracker
 https://trello.com/b/50PS3ZiC/team-book-trello-board

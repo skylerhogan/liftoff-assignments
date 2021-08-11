@@ -26,7 +26,7 @@ This is a personal library management application. Through the use of "Shelves" 
 - Google Books API
 - Bootstrap???
 
-### What I'll Have to Learn
+### What We'll Have to Learn
 1) How to integrate Google Books API
 2) How to implement time and date based reminders
 3) How to push and pull Git changes while adding features

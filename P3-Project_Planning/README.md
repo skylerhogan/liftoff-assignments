@@ -1,19 +1,16 @@
-# Project Planning
-For this assignment, you'll create some initial plans for your project.
-
-## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
-
-## Submission Instructions
-
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* [Landing Page](https://i.imgur.com/MgTSNdJ.png)
+* [Register](https://i.imgur.com/hTzEmvL.png)
+* [Login](https://i.imgur.com/O9CiCPV.png)
+* [User Dashboard](https://i.imgur.com/9zlYb6H.png)
+* [Add Book](https://i.imgur.com/M0nwkMR.png)
+* [View Book](https://i.imgur.com/sx82Wak.png)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Group project Trello board](https://trello.com/b/DFsLPcVr/liftoff-library-app)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Group project GitHub repo](https://github.com/LaunchCodeLiftoffProjects/zachary-group-b)
